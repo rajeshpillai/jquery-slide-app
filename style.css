@@ -1,0 +1,27 @@
+.container {
+  
+}
+.next {
+  
+}
+
+.prev {
+  
+}
+
+.slides {
+  height: 100%;
+  padding: 10px;
+}
+
+.slides li {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  border: 1px dashed lightblue;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+}
